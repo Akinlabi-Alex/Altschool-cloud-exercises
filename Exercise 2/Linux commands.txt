@@ -1,0 +1,12 @@
+  
+    LINUX COMMANDS
+1. cal:This displays the calendar 
+2. export -p:This shows a list of all currently exported environment variables.
+3. printenv:Displays the values of all evironment variables.
+4. who:This shows who is currently logged in. 
+5. uname:This displays system information.
+6. last:This shows the recent login history of users.
+7. finger:This shows information about all the users currently logged into the system, including their usernames, login time and terminal.
+8. last reboot:This shows reboot history
+9. df:This displays free disk space
+10. w:This shows which users are online and what they are doing
