@@ -69,6 +69,6 @@
          -git config --global user.emai"alexmiracle100gmail.com".
 
        Run the following commands:
-         - git config -l; to displays the Git configuration settings for the current user.
+         - git config -l; is used to display the Git configuration settings for the current user.
          - git remote -v; is used to display the URLs of the remote repositories that your local repository is connected to. It has two URL. One is for fetching and the other is for pushing.
          - git log; this command is used to display the commit history of the current branch. It shows a list of commits, starting with the most recent one.
