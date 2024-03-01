@@ -66,7 +66,7 @@
      To setup your name and email in Git’s global config:     
        
          -git config --global user.name "Akinlabi Alexander".
-         -git config --global user.emai"alexmiracle100gmail.com".
+         -git config --global user.email"alexmiracle100gmail.com".
 
        Run the following commands:
          - git config -l; is used to display the Git configuration settings for the current user.
